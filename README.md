@@ -1,6 +1,6 @@
 # recipe.py
 Calculate Recipe Ingredients for Cookies
 
-Language: C# on .Net Framework
+Language: Python
 
-Requirements: Visual Studio (2019 or newer)
+Preferred IDE: PyCharm Community Edition 2021
